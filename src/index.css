@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#editor{
+  font-family:"Lucida Console",Monoco,monospace;
+  font-size:14px;
+  position:relative;
+  top:0;
+  left:0;
+  width:100%;
+  height:99%;
+  background-color:#eeeeee44;
+  resize:horizontal;
+  outline:none;
+  border:2px solid red;
+  margin-top: 0.25rem;
+}
+
+#preview{
+  font-size:14px;
+  position:relative;
+  top:0;
+  left:0;
+  width:100%;
+  height:99%;
+  background-color:#eeeeee44;
+  resize:horizontal;
+  outline:none;
+  border:2px solid blueviolet;
+}
+
+#first{
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  padding: 0;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+}
+
+#second{
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  padding: 0;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+}
